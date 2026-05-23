@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-advantage-three" class="icon icon--advantage-three" viewBox="0 0 126 86">
+    <defs>
+        <style>.advantage-three-cls-1,.advantage-three-cls-3,.advantage-three-cls-4,.advantage-three-cls-5{isolation:isolate;}.advantage-three-cls-1{opacity:0.1;}.advantage-three-cls-2{fill:#fff;}.advantage-three-cls-3{opacity:0.2;}.advantage-three-cls-4{opacity:0.3;}.advantage-three-cls-5{opacity:0.4;}</style>
+    </defs>
+    <g class="advantage-three-cls-1">
+        <path class="advantage-three-cls-2" d="M37.373,1.154,1,22.154v42l36.373,21,36.373-21v-42Z" transform="translate(0 0.001)"/>
+        <path d="M37.373,86.3086,0,64.7314V21.5767L37.373-.001,74.7461,21.5767V64.7314ZM2,63.5771,37.373,84,72.7461,63.5771V22.731L37.373,2.3086,2,22.731Z" transform="translate(0 0.001)"/>
+    </g>
+    <g class="advantage-three-cls-3">
+        <path class="advantage-three-cls-2" d="M50.372,1.154l-36.373,21v42l36.373,21,36.373-21v-42Z" transform="translate(0 0.001)"/>
+        <path d="M50.3721,86.3086,12.999,64.7314V21.5767L50.3721-.001l37.373,21.5777V64.7314ZM14.999,63.5771,50.3721,84l35.373-20.4229V22.731L50.3721,2.3086,14.999,22.731Z" transform="translate(0 0.001)"/>
+    </g>
+    <g class="advantage-three-cls-4"><path class="advantage-three-cls-2" d="M63.373,1.154,27,22.154v42l36.373,21,36.373-21v-42Z" transform="translate(0 0.001)"/>
+        <path d="M63.373,86.3086,26,64.7314V21.5767L63.373-.001l37.3731,21.5777V64.7314ZM28,63.5771,63.373,84,98.7461,63.5771V22.731L63.373,2.3086,28,22.731Z" transform="translate(0 0.001)"/>
+    </g>
+    <g class="advantage-three-cls-5"><path class="advantage-three-cls-2" d="M76.374,1.154l-36.373,21v42l36.373,21,36.373-21v-42Z" transform="translate(0 0.001)"/>
+        <path d="M76.374,86.3086,39.001,64.7314V21.5767L76.374-.001l37.3731,21.5777V64.7314ZM41.001,63.5771,76.374,84l35.3731-20.4229V22.731L76.374,2.3086,41.001,22.731Z" transform="translate(0 0.001)"/>
+    </g>
+    <path class="advantage-three-cls-2" d="M89.373,1.154,53,22.154v42l36.373,21,36.373-21v-42Z" transform="translate(0 0.001)"/>
+    <path d="M89.373,86.3086,52,64.7314V21.5767L89.373-.001l37.3731,21.5777V64.7314ZM54,63.5771,89.373,84l35.3731-20.4229V22.731L89.373,2.3086,54,22.731Z" transform="translate(0 0.001)"/>
+</svg>
